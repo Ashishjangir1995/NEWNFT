@@ -1,13 +1,13 @@
 # AREVEA-NFT Marketplace Documentation
-## Table of contents
-### Brief summary decentralized marketplace 
+## Table of Contents
+### Brief summary  for Decentralized Marketplace 
 ### Arevea Token and NFT Contract .sol files details
 ### Smart Contract Functionality in brief
 ### Disclaimer 
 
 
 # Arevea-NFT-Market Place 
-The Arevea marketplace mainly focuses upon the utilization of the Etherium network namely ERC721 for single NFT and ERC1155 for multiple NFT. This is also compatibleble with EVM aka ethereum virtual machine and innumerable other smart chain networks such as 1. Rinkeby Network 2. Ropsten amonst others. The main purpose of this project is to provide a Blockchain based online market place for the sale and purchase of NFT's both Single and Multiple using AREVEA tokens(ERC20,Criptocurrency). Arevea tokens may also be utilized for other transactions Thus we may conclude that there is a large scope of growth present permitting us to move forward with this initiation.  
+The Arevea marketplace mainly focuses on EIP standards namely ERC721 for single NFT and ERC1155 for multiple NFT. This is also compatibleble with EVM aka ethereum virtual machine and innumerable other smart chain networks such as 1. Goerli Test Net 2. Ropsten amonst others. The main purpose of this project is to provide a Blockchain based online marketplace for trading NFT's both Single and Multiple using **AREVEA tokens(ERC20,Cryptocurrency)**. Arevea tokens may also be utilized for other transactions for promotion tickets and ticket Drops.  
 
 ### Brief summary decentralized marketplace 
 NFT or Non-Fungible Tokens are cryptographic assets that are created on blockchain technology, and have unique identification codes and meta-data, which makes them distinguishable, distinct, and completely unique. 
